@@ -1,0 +1,14 @@
+.body{
+font-family: 'Koh Santepheap', cursive;;
+
+}
+.main{
+    border: solid 2px red;
+    border-radius: 20px;
+    margin: 20px;
+    font-size: medium;
+    width:29%;
+    float: left;
+    text-align: center;
+    
+}
